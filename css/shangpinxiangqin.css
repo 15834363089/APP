@@ -128,3 +128,28 @@ footer{
     /*line-height: 1rem;*/
     text-align: center;
 }
+.youfudongle{
+    float: right;
+    text-align: center;
+    line-height: 1rem;
+    /*display: flex;*/
+    width: 45%;
+    color: #fff;
+}
+.youfudongle div:nth-child(1){
+    width: 65%;
+    padding: .1rem;
+    background: red;
+    font-size: .3rem;
+    padding:0 .2rem;
+    float: left;
+}
+.youfudongle div:nth-child(2){
+    width: 35%;
+    float: right;
+    padding:0 .2rem;
+    background: #ff9d00;
+    font-size: .3rem;
+}
+
+
