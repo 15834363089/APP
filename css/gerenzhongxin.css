@@ -41,6 +41,9 @@ header{
     font-size: .3rem;
     color: #9b9b9b;
 }
+.denglu-1 li a{
+    color: #9b9b9b;
+}
 /*身体*/
 section{
     position: absolute;
